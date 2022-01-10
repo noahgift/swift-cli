@@ -20,3 +20,8 @@ Step 3:  Edit scheme and target terminal and add argument
 Step 4:  Test out executable
 
 ![swift-cli](https://user-images.githubusercontent.com/58792/148785444-8be98cde-4a10-4665-bb94-5ac89d220d93.png)
+
+
+## References
+
+* [Watch on YouTube](https://youtu.be/bNWLDOW-Aok)
