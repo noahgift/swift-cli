@@ -9,4 +9,6 @@ Step 2:  Use [swift-argument-parser package](https://github.com/apple/swift-argu
 
 ![add-packages](https://user-images.githubusercontent.com/58792/148778659-42a69e38-9dbe-452d-876f-4890fc77fa81.png)
 
+More information on package dependencies:  https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app
+
 
