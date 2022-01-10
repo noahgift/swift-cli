@@ -25,3 +25,4 @@ Step 4:  Test out executable
 ## References
 
 * [Watch on YouTube](https://youtu.be/bNWLDOW-Aok)
+* [Watch on O'Reilly](https://learning.oreilly.com/videos/building-cli-tools/01102022VIDEOPAIML/)
