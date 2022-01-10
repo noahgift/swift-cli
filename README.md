@@ -15,3 +15,8 @@ Step 3:  Edit scheme and target terminal and add argument
 
 
 ![version](https://user-images.githubusercontent.com/58792/148784787-d2ed5910-2fca-4bc9-ba5a-49a8fb349c09.png)
+
+
+Step 4:  Test out executable
+
+![swift-cli](https://user-images.githubusercontent.com/58792/148785444-8be98cde-4a10-4665-bb94-5ac89d220d93.png)
