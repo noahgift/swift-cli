@@ -1,2 +1,4 @@
 # swift-cli
-Example of building
+Example of building command-line tools in Swift
+
+
