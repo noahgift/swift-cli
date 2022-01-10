@@ -11,4 +11,7 @@ Step 2:  Use [swift-argument-parser package](https://github.com/apple/swift-argu
 
 More information on package dependencies:  https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app
 
+Step 3:  Edit scheme and target terminal and add argument
 
+
+![version](https://user-images.githubusercontent.com/58792/148784787-d2ed5910-2fca-4bc9-ba5a-49a8fb349c09.png)
